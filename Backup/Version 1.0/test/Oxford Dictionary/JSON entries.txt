@@ -1,0 +1,7 @@
+*Getting entries:
+    for i in range(0,len(vocab['results'][0]['lexicalEntries']),1):
+        print(str(i+1)+'.'+vocab['results'][0]['lexicalEntries'][i]['entries'][0]['senses'][0]['definitions'][0])
+*Storing the chosen option based on input:
+    v=vocab['results'][0]['lexicalEntries'][definition_no-1]['entries'][0]['senses'][0]['definitions'][0]
+*Displaying the current word type:
+    word_type=vocab['results'][0]['lexicalEntries'][definition_no-1]['lexicalCategory']['text']

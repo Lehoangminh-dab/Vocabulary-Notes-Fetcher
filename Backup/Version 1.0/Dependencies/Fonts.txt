@@ -1,0 +1,88 @@
+HEADING ROW:
+."No":
+-Name:Merriweather
+-Size:18
+-RGBColor:204,65,37
+-Bold:False
+-Italic:False
+-Underline:False
+."Word":
+-Name:Merriweather
+-Size:18
+-RGBColor:204,65,37
+-Bold:False
+-Italic:False
+-Underline:False
+."Definition":
+-Name:Merriweather
+-Size:18
+-RGBColor:204,65,37
+-Bold:False
+-Italic:False
+-Underline:False
+UPDATE ROW:
+*1ST Column(No):
+-Name:Arial
+-Size:18
+-RGBColor:0,0,0
+-Bold:False
+-Italic:False
+-Underline:False
+*2ND Column(Word):
+.Word:
+-Name:Arial
+-Size:16
+-RGBColor:0,0,0
+-Bold:False
+-Italic:False
+-Underline:False
+.Pronunciation:
+-Name:Arial
+-Size:16
+-RGBColor:0,0,0
+-Bold:False
+-Italic:False
+-Underline:False
+.Word Types:
+-Name:Arial
+-Size:16
+-RGBColor:255,0,0
+-Bold:False
+-Italic:True
+-Underline:False
+*3RD Column(Definition):
+.Word Type:
+-Name:Arial
+-Size:12
+-RGBColor:255,0,0
+-Bold:True
+-Italic:True
+-Underline:True
+.English definition:
+-Name:Arial
+-Size:12
+-RGBColor:0,0,0
+-Bold:False
+-Italic:False
+-Underline:False
+.'*E.g':
+-Name:Arial
+-Size:12
+-RGBColor:0,0,0
+-Bold:False
+-Italic:False
+-Underline:False
+.Examples:
+-Name:Arial
+-Size:12
+-RGBColor:0,0,0
+-Bold:False
+-Italic:True
+-Underline:False
+.Vietnamese definition:
+-Name:Arial
+-Size:12
+-RGBColor:255,0,0
+-Bold:False
+-Italic:True
+-Underline:False
